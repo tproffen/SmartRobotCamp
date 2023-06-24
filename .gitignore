@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Model outputs
+best_model*
+dataset/
+snapshots/
+dataset_xy/
+
